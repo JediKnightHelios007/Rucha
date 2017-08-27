@@ -19,3 +19,8 @@ For future implementation, the app should fix the major problems currently facin
 -Allowing rooms to have descriptions may increase the overall experience for users
 
 -Social features that allow people to friend each other, track to their friends, see when they're online, and what rooms they're in
+
+Main Website where worked on a project.
+
+https://github.com/andore92/Rucha
+
